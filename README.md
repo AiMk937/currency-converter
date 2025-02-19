@@ -3,6 +3,7 @@ Real-Time Currency Converter 💱
 
 A simple **Java Swing** application that uses the **APILayer Exchange Rates Data API** to convert currencies in real time. This project is built with **Maven** and uses **org.json** for JSON parsing.
 
+![Currency Converter Screenshot](./screenshots/currency-converter.png)
 
 Features 🌟
 - **Real-Time Conversion** – Fetches the latest exchange rates from APILayer.
